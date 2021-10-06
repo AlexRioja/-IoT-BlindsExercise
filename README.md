@@ -10,4 +10,4 @@ Specifications:
 * The states of the system are the following:  
     * Blinds states: raised, down, rising, lowering.   
     * Working mode: summer and winter.  
-* The system states should be informed by using LEDs or Serial(received in the PC) and updated each 2 sec.  W
+* The system states should be informed by using LEDs or Serial(received in the PC) and updated each 2 sec.  
